@@ -25,7 +25,15 @@
 *~
 
 _autosave-*
+~_autosave-*
 *.coven
 
 /gerber/
 /plots/
+
+
+*.lck
+
+fp-info-cache
+
+*-backups
