@@ -15,3 +15,19 @@
 *.sx32fsl
 *.wx64fsl
 *.wx32fsl
+
+# Тимчасові файли та бекапи KiCad
+*.bak
+*.kicad_prl
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*~
+
+# Файли автозбереження
+_autosave-*
+*.coven
+
+# Теки з результатами виробництва (якщо генеруєте гербери локально)
+/gerber/
+/plots/
